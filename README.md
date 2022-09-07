@@ -1,7 +1,7 @@
 ![alt text](https://github.com/CasperJaa/Analysing-e-commerce-book-sales/blob/main/Logo.jpg?raw=true)
 
 # Analysing-online-book-sales
-> E-commerce site data preparation and sales analysis to improve company strategy
+> Analysing Sales figures and customer behavior of an online bookstore.
 
 ## Processed data:
 
