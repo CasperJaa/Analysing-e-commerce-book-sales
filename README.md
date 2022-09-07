@@ -1,4 +1,4 @@
-![alt text](https://github.com/CasperJaa/Wine-Boutique-Bottleneck-/blob/main/Logo.jpg?raw=true)
+![alt text](https://github.com/CasperJaa/Analysing-e-commerce-book-sales/blob/main/Logo.jpg?raw=true)
 
 # Analysing-online-book-sales
 > E-commerce site data preparation and sales analysis to improve company strategy
